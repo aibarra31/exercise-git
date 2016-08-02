@@ -23,13 +23,24 @@ readme.md file, click the edit icon and start answering the questions.
 ###Answers
 
 #### 1 What is Git?
-
+  It's the local repo that is in charge of archinving current work
+  
 #### 2 What is Github?
-
+  Having the repo at a remote location
+  
 #### 3 Describe the command that were used on Try Git tutorial.
-
+  Git init- initializes the git of the repository of the folder in terminal
+  Git add . any changes or new files to repository
+  Git commit -m "changes made" it applies a comment any changes that were made
+  Push- pushes to the repository
+  Pull- pulls from repository to my computer
+  Clone- making a copy from another repository into a new repository
+  Branch- allows a master and branches to edit without editing the master
+  Merge- allows the branches to come back together
+  
 #### 4 What are the main advantages?
-
+  Archiving system- if any errors occur then it would be easier to find and fix
+  
 ##Exercise
 
   Work on the gitTutorial folder, in order to simulate everything that was done within the Try Git Tutorial.
